@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1566722265214,
+  "timestamp": 1566727699481,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.7fc69af17ceecb9ba9e1.js",
+        "/main.4d419bfa0a27d5690645.js",
         "/manifest.webmanifest",
         "/polyfills-es5.f6e4f7f783ff74a1064c.js",
         "/polyfills.39b43801639f134a75f5.js",
@@ -21,7 +21,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
         "/assets/0020_96009_1548344997_postgresql.png",
@@ -81,9 +81,9 @@
     "/fontawesome-webfont.af7ae505a9eed503f8b8.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
     "/fontawesome-webfont.b06871f281fee6b241d6.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
     "/fontawesome-webfont.fee66e712a8a08eef580.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "/index.html": "a92eeea4fe21cfdb6792f66fc3426cd8bba20cf4",
-    "/main.7fc69af17ceecb9ba9e1.js": "9e91d818d5c6e1cf3855cdaa4ecef984384695b8",
-    "/manifest.webmanifest": "34d8826e0c040c2e93068a19e496beb0806de44b",
+    "/index.html": "f096020007b794c6477decf74ddae5ff8a744751",
+    "/main.4d419bfa0a27d5690645.js": "a07bf55c7abdd927ff5432f29bd25a3cf469b7d6",
+    "/manifest.webmanifest": "ae1d702ed800e2b9e329cf258b15a446d15b2b73",
     "/polyfills-es5.f6e4f7f783ff74a1064c.js": "934e86a8280c34ce3ce10f75db1de79822362f1e",
     "/polyfills.39b43801639f134a75f5.js": "c6660e2416b33fe58c399a30e93f6151b8493a82",
     "/runtime.ee0aae13fb762b150814.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
