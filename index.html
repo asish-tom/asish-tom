@@ -4,13 +4,9 @@
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <script>
   (function () {
-    // Retrieve the URL the user was trying to access when receiving the 404.
     var redirect = sessionStorage.redirect;
-    // Remove the URL from sessionStorage.
     delete sessionStorage.redirect;
-    // Check if we actually need to redirect.
     if (redirect && redirect != location.href) {
-      // We need to redirect to the URL the user was trying to access.
       history.replaceState(null, null, redirect);
     }
   })();
@@ -80,5 +76,5 @@
 </footer>
 
 <noscript>Please enable JavaScript to continue using this application.</noscript>
-<script src="runtime.ee0aae13fb762b150814.js" defer></script><script src="polyfills-es5.f6e4f7f783ff74a1064c.js" nomodule defer></script><script src="polyfills.39b43801639f134a75f5.js" defer></script><script src="main.6d592337e05842d60eec.js" defer></script></body>
+<script src="runtime.ee0aae13fb762b150814.js" defer></script><script src="polyfills-es5.f6e4f7f783ff74a1064c.js" nomodule defer></script><script src="polyfills.39b43801639f134a75f5.js" defer></script><script src="main.7345e9db4403b5748367.js" defer></script></body>
 </html>
