@@ -91,9 +91,6 @@ MIT
 @angular/router
 MIT
 
-@angular/service-worker
-MIT
-
 angular-font-awesome
 MIT
 The MIT License
