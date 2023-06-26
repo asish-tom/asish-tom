@@ -14,4 +14,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
+
+### AWS Certifications
+
+[![AWS Certified Badge](badge-url)](https://www.credly.com/badges/30f2cf50-4dcf-4958-a245-4f3fbb52ed32/public_url)
+
 <br />
