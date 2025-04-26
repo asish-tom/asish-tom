@@ -7,7 +7,11 @@
 
 ## Summary
 
-I'm a seasoned Technical Leader with a passion for driving innovation and fostering collaborative environments. [cite: 1] Leveraging extensive experience in software engineering and cloud management, I specialize in optimizing systems, scaling services, and leading cross-functional teams to exceed objectives. [cite: 2] Adept at navigating complex challenges, I thrive in dynamic settings where creativity and strategic thinking are paramount. [cite: 3] With a track record of delivering impactful solutions and mentoring emerging talent, I am committed to driving organizational success through technical excellence and visionary leadership. [cite: 4]
+As a seasoned software engineer, I am driven by a passion for innovation, a commitment to fostering collaborative environments, and a continuous pursuit of learning. With extensive experience in leading software engineering, cloud management, and DevOps, I specialise in optimising systems, scaling services, and guiding cross-functional teams to exceed objectives. I’m a confident engineer, enthusiastic leader, and efficient team player.
+
+My career began as a Backend Software Engineer in startups, where I encountered the recurring challenge of bridging the gap between Development and Infrastructure. This puzzle ignited my curiosity and steered me toward DevOps and cloud solutions. Since then, I have dedicated myself to resolving these intricate challenges, from debugging configurations and developing in-house Infrastructure-as-Code frameworks to addressing developers’ concerns and optimising business costs with modern tech stacks.
+
+Throughout this journey, I have expanded my expertise through continuous learning and certifications, deepening my knowledge in Cloud, Cybersecurity, DevOps, and emerging technologies. I am pursuing a master’s in AI at the University of Western Australia, further enhancing my skills and staying at the forefront of technological advancements.
 
 ## Major Skillset
 
