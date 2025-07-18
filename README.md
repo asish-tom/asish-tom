@@ -3,7 +3,7 @@
 [![AWS Certified Solutions Architect Professional](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Professional-blue)](https://www.credly.com/badges/30f2cf50-4dcf-4958-a245-4f3fbb52ed32)
 [![AWS Certified Security - Specialty](https://img.shields.io/badge/AWS%20Certified%20Security-Specialty-blue)](https://www.credly.com/badges/b795825a-2e1e-45ad-875a-cddd37d8b810/linked_in_profile)
 
-**Future Student @ UWA (MIT-AI) S2, 25 | Technical Lead | 5 x AWS | OCI | GCP | AI Enthusiast | DevSecOps | Go | Python | Java | K8s | Serverless**
+**Student @ UWA (MIT-AI) S2, 25 | Technical Lead | 5 x AWS | OCI | GCP | AI Enthusiast | DevSecOps | Go | Python | Java | K8s | Serverless**
 
 ## Summary
 
